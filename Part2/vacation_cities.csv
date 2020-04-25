@@ -1,0 +1,43 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+9,Gelemso,ET,61.83,light rain,8.82,40.52,Kerod Hotel
+21,Busselton,AU,69.01,light rain,-33.65,115.33,Observatory Guest House
+22,Salinopolis,BR,79.14,light rain,-0.61,-47.36,Hotel Salinópolis
+29,Bambous Virieux,MU,75.99,light rain,-20.34,57.76,Casa Tia Villa
+33,Souillac,MU,75.99,light rain,-20.52,57.52,Bils' Villa
+53,Makali,SL,69.96,moderate rain,8.63,-11.67,
+60,Constitucion,CL,57.42,moderate rain,-35.33,-72.42,Hotel Boutique Las Azucenas
+122,Athabasca,CA,44.89,light rain,54.72,-113.29,Athabasca Lodge Motel
+139,Irbil,IQ,59.0,light rain,36.19,44.01,Erbil International Hotel
+164,Lebu,CL,55.4,light rain,-37.62,-73.65,Hostal Las Lilas
+193,East London,ZA,62.6,light rain,-33.02,27.91,Tu Casa
+204,Wanning,CN,76.44,light rain,18.8,110.4,Paradise Hotel
+215,Sao Felix Do Xingu,BR,72.77,light rain,-6.64,-51.99,Apart Hotel Rio Xingu
+221,Olafsvik,IS,42.93,light rain,64.89,-23.71,Hotel Olafsvik
+251,Nicoya,CR,73.0,light rain,10.15,-85.45,Guayacan Real
+268,Esil,KZ,47.41,light rain,51.96,66.4,Egorkino Hotel
+291,Mahabad,IR,51.48,light rain,36.76,45.72,Afshar Hotel
+294,Pauini,BR,74.25,light rain,-7.71,-66.98,Casa do Kiwliks
+309,Itarema,BR,77.0,light rain,-2.92,-39.92,Windvillage
+310,Odweyne,SO,72.75,light rain,9.41,45.06,Eng Hiirey House
+311,Mankono,CI,74.61,moderate rain,8.06,-6.19,Hotel Cajoux
+312,High Prairie,CA,43.03,light rain,55.43,-116.49,Royal Star Motor Inn
+319,Bardiyah,LY,60.31,light rain,31.76,25.09,بورتو بردية
+325,Asfi,MA,62.49,light rain,32.3,-9.24,Hôtel Abda
+341,Kongwa,TZ,64.17,light rain,-6.2,36.42,Chipsi Feed
+343,Colesberg,ZA,60.24,light rain,-30.72,25.1,Bhelekazi Guesthouse
+362,Uchiza,PE,71.26,light rain,-8.46,-76.46,Hotel El Rancho
+368,Tura,IN,69.84,light rain,25.52,90.22,Hotel RIKMAN Continental
+420,Cururupu,BR,76.12,light rain,-1.83,-44.87,Pousada Través'cia
+433,Santa Ines,BR,74.16,light rain,-3.67,-45.38,HOTEL TOP
+436,Muli,MV,78.44,moderate rain,2.92,73.57,Medhufushi Island Resort
+443,Punta Alta,AR,66.13,light rain,-38.88,-62.07,Center Hotel Punta Alta
+444,Maceio,BR,79.5,light rain,-9.67,-35.74,Mercure Maceio Pajucara Hotel
+458,Mahebourg,MU,75.99,light rain,-20.41,57.7,Shandrani Beachcomber Resort & Spa
+466,Bonthe,SL,76.64,moderate rain,7.53,-12.51,Bonthe Holiday Village
+467,Rawson,AR,61.18,light rain,-43.3,-65.1,Hotel Punta León
+473,Quatre Cocos,MU,75.99,light rain,-20.21,57.76,Veranda Palmar Beach Hotel
+489,Coihaique,CL,48.2,light rain,-45.58,-72.07,Diego De Almagro Coyhaique
+498,Garowe,SO,78.53,light rain,8.41,48.48,Curubo Hotel
+512,Viedma,AR,62.1,light rain,-40.81,-63.0,Hotel Cristal
+531,Ziro,IN,49.96,light rain,27.63,93.83,Ka-ngam homestay
+534,Humaita,BR,74.66,moderate rain,-7.51,-63.02,Corrêa Hotel
